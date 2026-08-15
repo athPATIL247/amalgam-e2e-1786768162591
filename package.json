@@ -1,0 +1,18 @@
+{
+  "name": "amalgam-e2e-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Node app for Amalgam engine E2E tests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "lodash": "4.17.15"
+  },
+  "devDependencies": {
+    "axios": "^1.6.0"
+  }
+}

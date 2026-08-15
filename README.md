@@ -1,2 +1,3 @@
-# amalgam-e2e-1786768162591
-Amalgam E2E test repo (auto-deleted)
+# Amalgam E2E Fixture
+
+Small Express service used to validate Depra, Infraq, Devora, and Docryx scans.
